@@ -13,7 +13,7 @@ Aqui você vai encontrar:
 - Exercícios básicos
 - Desafios simples
 - Testes de lógica
-*Os exercícios estão em ordem de progresso no curso*
+- *Os exercícios estão em ordem de progresso no curso*
 
 Linguagens Utilizadas:
 - JavaScript
